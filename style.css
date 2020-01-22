@@ -1,0 +1,52 @@
+h4 {
+  color: #FF0000;
+}
+div span {
+  color: greenyellow;
+}
+span button {
+  margin-left: 700px;
+}
+a {
+  text-decoration: none;
+}
+h1 {
+  font-size: bold;
+  margin-bottom: 0;
+}
+.food-image {
+  height: 350px;
+  width: 200px;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.apple {
+  background-image: url("./apple-breakfast-quinoa-7.jpg");
+}
+.shrimp {
+  background-image: url("./screenshot.jpg")
+}
+.pasta {
+  background-image: url("./pasta-salad-recipe-for-lunch.jpg");
+}
+.top-button {
+  background-color: white;
+  padding: 5px;
+}
+.bottom-button {
+  background-color: green;
+  padding: 5px;
+}
+.food-text {
+  margin-right: 200px;
+  display: flex;
+  flex-direction: column;
+}
+.content-container {
+  background-color: beige;
+  display: flex;
+  flex-wrap: wrap;
+}
